@@ -45,3 +45,7 @@ object MyTest{
 }
 MyTest.myTest
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1a5b8124a87253d93bb43520e8e797525930a2db
