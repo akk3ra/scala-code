@@ -1,4 +1,3 @@
-
 class Order(id:Int) {
 	
 	val prods = List[Product]()
